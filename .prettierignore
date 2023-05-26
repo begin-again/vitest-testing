@@ -1,0 +1,7 @@
+build/
+coverage/
+.vscode/
+public/
+node_modules/
+dist/
+src/__tests__/
